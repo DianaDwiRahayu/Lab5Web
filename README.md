@@ -43,3 +43,22 @@
 ![fungsi_dan_cara_pemanggilannya](https://user-images.githubusercontent.com/101866805/163554745-9acdce89-eff1-4591-8514-ba8c2818f232.png)
 ![pemasukan_data](https://user-images.githubusercontent.com/101866805/163554749-ed90f6e6-686f-436e-bb7d-fbba4af8da47.png)
 ![skrip_javascript](https://user-images.githubusercontent.com/101866805/163554755-39de3c1c-e2cc-450d-a222-8af45c6d304b.png)
+  
+  
+  
+  <b> Dasar Pemgrograman Javascript </b>
+  
+  
+  ![operasi_aritmatika](https://user-images.githubusercontent.com/101866805/163555169-c7f4ee32-5f4b-4430-af18-b2fd498a01fc.png)
+![kondisi_if_else](https://user-images.githubusercontent.com/101866805/163555180-af404e77-a199-4813-b742-3981896b857e.png)
+![operator_switch](https://user-images.githubusercontent.com/101866805/163555186-7ba040d7-b7c2-4800-9ab3-df41b67140a8.png)
+  
+  
+  <b> Pembuatan Form </b>
+  
+  
+  ![form_input](https://user-images.githubusercontent.com/101866805/163555371-e1277051-cd0f-46f2-984f-855e09e7b632.png)
+![form_button](https://user-images.githubusercontent.com/101866805/163555381-683fb1f1-187e-47fa-8182-75a8c7287440.png)
+![checkbox_otomatis](https://user-images.githubusercontent.com/101866805/163555386-3c485a84-aa16-418d-907b-00c40c3cf9c8.png)
+
+
